@@ -1,0 +1,12 @@
+[package]
+name = "boppo"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ben Hansen <bh@benhansen.io>"]
+description = "The Rust API for creating new activities"
+license = "MIT OR Apache-2.0"
+keywords = ["audio", "playback"]
+categories = ["embedded", "game development", "hardware support"]
+repository = "https://github.com/10buttons/boppo_rust"
+
+[dependencies]
